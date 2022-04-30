@@ -1,8 +1,8 @@
 # Trabalho Final GCC-108 - Teoria da Computação
 ##### Prof.: Douglas H. S. Abreu
-#####Nome: Deyvid Andrade Silva, 201820386
-#####Turma: 14A
-#####Link do repositório GitHub: https://github.com/deyvidandrades/TrabalhoFinalGCC-208
+##### Nome: Deyvid Andrade Silva, 201820386
+##### Turma: 14A
+##### Link do repositório GitHub: https://github.com/deyvidandrades/TrabalhoFinalGCC-208
 
 # Primeiros passos
 
